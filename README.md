@@ -1,5 +1,4 @@
 # Julius-Ceasar
-Github Profile
 
 Hello there!
 
